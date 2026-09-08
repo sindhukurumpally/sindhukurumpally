@@ -26,10 +26,10 @@ GitHUb profile:https://github.com/sindhukurumpally/sindhukurumpally
 ##😄 Pronouns: She/Her
 - ⚡ Fun fact: The fact is recruiters will spend less than 1 minute on a github profile still repositories are made effectively.
 ##Projects:
-  ->Designed a blood donation website wihch shows the donations and donars available nearby our network.
-  ->Currently Designing a Digital Twin based Health Awareness System which keeps track our health and gives suggestions to improve.In this Deep Learning LSTM algorithm iis used.
+  ->Build Dashboards in Tzbleau on Shopping Sales data and Derived Insights about how to increase our sales efficiently using various plots
+  ->Designed a Digital Twin based Health Awareness System which keeps track our health and gives suggestions to improve.In this Deep Learning LSTM algorithm iis used.
 ##Extracurricular Activities
-  - I am an NCC cadet currently undergoing training for B and C certificate
+  - I am an NCC cadet currently undergoing training for C certificate and completed 'B' certificate
   - I actively participated in IEEE and TEDx events organised in our college
 ##Hobbies
   -I watch movies and anime when i find free time
@@ -37,5 +37,6 @@ GitHUb profile:https://github.com/sindhukurumpally/sindhukurumpally
   -Clicking random pictures when i found them intresting
   -Listening music
   -Talking to people is my everday hobby
-Apart from all these i am very happy and enthusiastic person. I always wanted to work for enthusiastic and intresting things .I always work on my improvement.
+Apart from all these i am very happy and enthusiastic person. I always wanted to work for enthusiastic and intresting things .I always work on my improvement.I am a person learn from my past experiences.
+
 -->
